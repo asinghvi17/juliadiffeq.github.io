@@ -25,7 +25,7 @@ SciML. If you would like your institution's tools added to the list,
 - [QuantumOptics](https://qojulia.org/)
 - [New York Federal Reserve Bank](https://frbny-dsge.github.io/DSGE.jl/latest/)
 - [Julia Robotics](https://juliarobotics.org/)
-- [JuliaHub: JuliaSim](https://juliacomputing.com/products/juliasim/)
+- [JuliaHub: Dyad](https://juliahub.com/products/dyad)
 - [Pumas-AI: Pharmaceutical Modeling and Simulation](https://pumas.ai/)
   - [SciML and Pumas-AI tools are an accepted standard by the FDA with trained evaluators](https://www.fda.gov/media/85816/download)
 - [Brazilian National Institute for Space Research (INPE)](https://github.com/JuliaSpace/SatelliteToolbox.jl)
